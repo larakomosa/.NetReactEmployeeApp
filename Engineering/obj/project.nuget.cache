@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "dyJP7oXjges/1zeNFDsmF072Mk2Kgb17GmhxyW9+f+2DNw0GAKfqT+8KV6eLL6WYJ5xkFZZOGnu4AFdgd884Fg==",
+  "success": true,
+  "projectFilePath": "/Users/lara.komosa/Projects/Engineering/Engineering/Engineering.csproj",
+  "expectedPackageFiles": [
+    "/Users/lara.komosa/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.0.0/microsoft.aspnetcore.jsonpatch.3.0.0.nupkg.sha512",
+    "/Users/lara.komosa/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/3.0.0/microsoft.aspnetcore.mvc.newtonsoftjson.3.0.0.nupkg.sha512",
+    "/Users/lara.komosa/.nuget/packages/microsoft.csharp/4.6.0/microsoft.csharp.4.6.0.nupkg.sha512",
+    "/Users/lara.komosa/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/lara.komosa/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

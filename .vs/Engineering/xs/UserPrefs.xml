@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{54663928-ED83-4177-B8BB-687F93524A1B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Engineering/Startup.cs">
+    <Files>
+      <File FileName="Engineering/Startup.cs" Line="8" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Engineering" expanded="True">
+            <Node name="Engineering" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Engineering FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
