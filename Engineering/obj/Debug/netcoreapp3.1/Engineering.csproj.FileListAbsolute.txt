@@ -22,3 +22,9 @@
 /Users/lara.komosa/Projects/Engineering/Engineering/obj/Debug/netcoreapp3.1/Engineering.dll
 /Users/lara.komosa/Projects/Engineering/Engineering/obj/Debug/netcoreapp3.1/Engineering.pdb
 /Users/lara.komosa/Projects/Engineering/Engineering/obj/Debug/netcoreapp3.1/Engineering.genruntimeconfig.cache
+/Users/lara.komosa/Projects/Engineering/Engineering/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/lara.komosa/Projects/Engineering/Engineering/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/lara.komosa/Projects/Engineering/Engineering/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/lara.komosa/Projects/Engineering/Engineering/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/lara.komosa/Projects/Engineering/Engineering/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/lara.komosa/Projects/Engineering/Engineering/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
